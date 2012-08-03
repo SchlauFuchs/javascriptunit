@@ -1,4 +1,4 @@
-package com.metservice.testing.javascript;
+package com.hackemesser.testing.javascript;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
@@ -8,7 +8,9 @@ import org.mozilla.javascript.Context;
 import org.mozilla.javascript.ScriptableObject;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import com.metservice.testing.javascript.annotation.Javascript;
+import com.hackemesser.testing.javascript.JavascriptContext;
+import com.hackemesser.testing.javascript.JavascriptTestRunner;
+import com.hackemesser.testing.javascript.annotation.Javascript;
 
 @RunWith(JavascriptTestRunner.class)
 public class ExampleTest {

@@ -1,4 +1,4 @@
-package com.metservice.testing.javascript;
+package com.hackemesser.testing.javascript;
 
 import java.io.File;
 import java.lang.reflect.Field;
@@ -10,7 +10,7 @@ import org.junit.runners.BlockJUnit4ClassRunner;
 import org.junit.runners.model.InitializationError;
 import org.junit.runners.model.Statement;
 import org.slf4j.LoggerFactory;
-import com.metservice.testing.javascript.annotation.Javascript;
+import com.hackemesser.testing.javascript.annotation.Javascript;
 
 public class JavascriptTestRunner extends BlockJUnit4ClassRunner {
 

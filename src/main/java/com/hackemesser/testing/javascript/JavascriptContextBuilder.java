@@ -1,4 +1,4 @@
-package com.metservice.testing.javascript;
+package com.hackemesser.testing.javascript;
 
 import java.io.File;
 import java.io.FileNotFoundException;

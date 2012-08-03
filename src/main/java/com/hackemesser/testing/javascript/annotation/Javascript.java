@@ -1,4 +1,4 @@
-package com.metservice.testing.javascript.annotation;
+package com.hackemesser.testing.javascript.annotation;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
