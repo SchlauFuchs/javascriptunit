@@ -1,0 +1,1 @@
+I want to write Javascript and I want to test it by JUnit classes, using all the possibilites around it.
